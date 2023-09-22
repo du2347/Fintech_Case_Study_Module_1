@@ -38,6 +38,7 @@ In summation,  JPM Coin is a pioneering example of how traditional banking insti
 
 Moreover, JP Morgan should implement an effective market strategy to deal with market competition and cater to consumers. This strategy should be focused on exemplifying JPM Coin as the best option. Instead of comparing itself to other competitors such as XRM, it should focus entirely on all the positives of JPM coin and why it is the only practical solution to changing times characterized by technological advancements.
 
+##
 ### Works Cited
 * Dimon, Jamie. “2022 Complete Annual Report.” JPMorgan Chase, 4 April 2023, https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2022.pdf. Accessed September 2023.
 * Irrera, Anna, et al. “JPMorgan (JPM) Switches On JPM Coin Payments System in Euros.” Bloomberg.com, 23 June 2023, https://www.bloomberg.com/news/articles/2023-06-23/jpmorgan-jpm-switches-on-jpm-coin-payments-system-in-euros. 

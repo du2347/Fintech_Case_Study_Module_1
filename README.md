@@ -1,4 +1,4 @@
-# Module 1: Fintech Case Study 
+# Fintech Case Study 
 ## By: Dina Uddin
 # Unlocking Financial Innovation: JP Morgan's Fintech Journey with Blockchain and Cryptocurrency in Developing Onxy and JPMCoin
 ## General Overview and Historical Origins
